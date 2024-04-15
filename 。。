@@ -1,0 +1,58 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>首页</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+  <div class="container">
+  <div class="header">
+    <div class="">
+               
+                    
+                    <form class="search_box">
+</form>
+                
+
+    </div>
+    </div>
+      <input type="submit" value="确定">
+<input type="text" >
+        <div class="nav">
+            <ul class="">
+                <li><a href="首页.html">首页</a></li>
+                <li><a href="简介.html" class="active">学校简介</a></li>
+                <li><a href="东部理工.html">东部理工数据科学与传播学院</a></li>
+            </ul>
+        </div>
+        <div class="banner"></div>
+        <div class="main w">
+            <div class="title">学校新闻</div>
+            <div class="item news">
+                <div class="big_area">
+                    <a href="新闻.html">
+                        <div class="img_box"><img src="图片/1.jpeg" /></div>
+                        <div class="content">
+                            <h3>市委第四巡察组、市社联来我校调研</h3>
+                            <p>6月13日上午，绍兴市委第四巡察组组长袁海峰,绍兴市社联党组书记、主席王静静一行来我校专题调研浙东唐诗之...</p>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="footer">
+            <div class="">
+                <p>浙ICP备05014601号 电话：0575-89172457、0575-89114457 地址：浙江省绍兴市越城区群贤中路2801号（镜湖校区） 会稽路428号（稽山校区）</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
